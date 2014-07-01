@@ -1,3 +1,9 @@
+/*                                                                                                                                                                                                                                                                                                 
+Section: DTH
+Title: DTH
+Language: en-US
+*/
+
 Getting started:
 
 Get the WSDL file from your DTH server:
